@@ -1,3 +1,3 @@
-#New Git Module
+New Git Module
 
 Hello, GitHub!
